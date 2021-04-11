@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trufla-react-task/static/css/main.a71a5816.chunk.css",
+    "main.js": "/trufla-react-task/static/js/main.85fb2e49.chunk.js",
+    "main.js.map": "/trufla-react-task/static/js/main.85fb2e49.chunk.js.map",
+    "runtime-main.js": "/trufla-react-task/static/js/runtime-main.0ed270b3.js",
+    "runtime-main.js.map": "/trufla-react-task/static/js/runtime-main.0ed270b3.js.map",
+    "static/js/2.f47b71bf.chunk.js": "/trufla-react-task/static/js/2.f47b71bf.chunk.js",
+    "static/js/2.f47b71bf.chunk.js.map": "/trufla-react-task/static/js/2.f47b71bf.chunk.js.map",
+    "static/js/3.e02e5275.chunk.js": "/trufla-react-task/static/js/3.e02e5275.chunk.js",
+    "static/js/3.e02e5275.chunk.js.map": "/trufla-react-task/static/js/3.e02e5275.chunk.js.map",
+    "index.html": "/trufla-react-task/index.html",
+    "static/css/main.a71a5816.chunk.css.map": "/trufla-react-task/static/css/main.a71a5816.chunk.css.map",
+    "static/js/2.f47b71bf.chunk.js.LICENSE.txt": "/trufla-react-task/static/js/2.f47b71bf.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/trufla-react-task/static/media/icon-arrow-down.852fa301.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed270b3.js",
+    "static/js/2.f47b71bf.chunk.js",
+    "static/css/main.a71a5816.chunk.css",
+    "static/js/main.85fb2e49.chunk.js"
+  ]
+}
